@@ -17,4 +17,4 @@ for num in range(1,200):
 
 print(f"Now serving number {user_number}, please step up")
 
-print("You haven't responded to our numerous attempts to contact you regarding your car's warranty that is well outstanding at this point!  If you don't contact us soon we're going to key your car and not being under warranty you'll have to pay gobs of money to fix!  Have a nice day. :|")
+print("You haven't responded to our numerous attempts to contact you regarding your car's warranty that is well outstanding at this point!  If you don't contact us soon we're going to key your car and not being under warranty you'll have to pay gobs of money to fix!  Have a nice day. :| *evil laugh* ")
